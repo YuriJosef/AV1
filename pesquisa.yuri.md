@@ -10,11 +10,7 @@ Ele permite que vários colaboradores trabalhem em um mesmo projeto simultaneame
 
 Principais recursos:
 
-Controle de versão distribuído: Cada colaborador tem uma cópia completa do repositório.
-
-Branching e merging:
-
-Facilita o desenvolvimnto paralelo de funcionalidades e a fusão de alterações entre diferentes partes do código.
+Controle de versão distribuído: Cada colaborador tem uma cópia completa do repositório. Branching e merging: Facilita o desenvolvimnto paralelo de funcionalidades e a fusão de alterações entre diferentes partes do código.
 Rastreamento de alterações: Cada alteração é registrada, facilitando a identificação de quem fez o que e quando.
 
 Popularidade:
@@ -34,7 +30,7 @@ Permite que os desenvolvedores hospedem, compartilhem e colaborem em projetos de
 Principais recursos:
 
 Repositórios públicos e privados: Os desenvolvedores podem escolher entre compartilhar seu código com o público ou manter projetos privados.
-Issues e pull requests:Facilitam a colaboração e o gerenciamento de problemas e solicitações de alteração.
+Issues e pull requests: Facilitam a colaboração e o gerenciamento de problemas e solicitações de alteração.
 Integração contínua: Possibilita a automação de testes e implantação de código.
 
 Popularidade: 
